@@ -1,0 +1,6 @@
+.rounded-div {
+  height: 20px;
+  width: 20px;
+  border-radius: var(--round-corners)
+  background-color: var(--turing-primary)
+}
